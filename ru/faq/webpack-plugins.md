@@ -1,9 +1,9 @@
 ---
-title: webpack plugins
-description: How to add webpack plugins into my Nuxt.js application?
+title: Плагины для wepback
+description: Как добавить плагины для webpack в мое Nuxt.js приложение?
 ---
 
-# How to add webpack plugins?
+# Как добавить плагины для webpack?
 
 In your `nuxt.config.js` file:
 
